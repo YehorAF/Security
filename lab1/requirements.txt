@@ -1,0 +1,6 @@
+streamlit
+numpy
+pillow
+matplotlib
+python-dotenv
+jupyter
