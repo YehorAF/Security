@@ -1,0 +1,9 @@
+{
+    "alphabets": {
+        "en": "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz",
+        "uk": "АаБбВвГгҐґДдЕеЄєЖжЗзИиІіЇїЙйКкЛлМмНнОоПпРрСсТтУуФфХхЦцЧчШшЩщЬьЮюЯя"
+    },
+    "valid_chars": "?!,.:;+-*/%$@\"' ",
+    "drop_tries": 5,
+    "tries": 5
+}
