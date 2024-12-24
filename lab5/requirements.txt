@@ -1,4 +1,3 @@
-numpy
 streamlit
-python-dotenv
-pycryptodome
+psutil
+sympy
